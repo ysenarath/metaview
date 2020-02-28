@@ -1,0 +1,7 @@
+pyparsing
+rdflib
+Flask
+Flask-RESTful
+Flask-HTTPAuth
+Flask-SQLAlchemy
+Flask-Migrate
